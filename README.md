@@ -32,3 +32,4 @@ This is a learning/demo project. Passwords are intentionally plain text for simp
 
 
 UI update: removed visible logo elements and added local product images in src/main/resources/static/images.
+# lakshmimart
